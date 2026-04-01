@@ -52,3 +52,4 @@ const startWorker = () => {
 };
 
 module.exports = { startWorker };
+
